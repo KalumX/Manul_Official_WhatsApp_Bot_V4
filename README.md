@@ -58,6 +58,7 @@ ____________________________________
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KalumX/Manul_Official_WhatsApp_Bot_V4)
 ____________________________________
 
 # ✨Install Manually 👇
